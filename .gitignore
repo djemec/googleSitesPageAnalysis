@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data Paths #
+RAW_DATA/*
+PROCESSED_DATA/*
