@@ -19,7 +19,7 @@ source = './RAW_DATA/source.html'
 sts_list = ['new', 'confirmed', 'updated', 'removed']
 library = './RAW_DATA/library.csv'
 
-
+ 
 def retrieve_new_pages(html_file):
     # setup variables
     df = pd.DataFrame()
